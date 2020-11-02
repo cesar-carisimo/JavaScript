@@ -1,0 +1,38 @@
+[
+    {
+        "imagen": "img/buzo200x200.jpg",
+        "nombre":"Buzo HMR",
+        "descripcion":"Buzo sin capucha",
+        "precio":2500
+    },
+    {
+        "imagen":"img/GorraRoja200x200.jpg",
+        "nombre":"Gorra RED HMR",
+        "descripcion":"Gorra Baseball",
+        "precio":1500
+    },
+    {
+        "imagen":"img/gorra01200x200.jpg",
+        "nombre":"Gorra GREY HMR",
+        "descripcion":"Gorra Baseball",
+        "precio":1500
+    },
+    {
+        "imagen":"img/tshirtHMRwhite200x200.jpg",
+        "nombre":"Remera White",
+        "descripcion":"Remera blanca HMR",
+        "precio":1000
+    },
+    {
+        "imagen":"img/T-RED200x200.jpg",
+        "nombre":"Remera Red",
+        "descripcion":"Remera roja HMR",
+        "precio":1000
+    },
+    {
+        "imagen":"img/combo.jpg",
+        "nombre":"Combo HMR",
+        "descripcion":"Remeras + Gorra HMR",
+        "precio":3000
+    }
+]
